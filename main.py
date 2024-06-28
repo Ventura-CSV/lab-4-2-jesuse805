@@ -9,7 +9,7 @@ def main():
 
     for _ in range(5):
         
-        inputLab4 = int(input('Input an integer value: '))
+        inputLab4 = int(input(''))
         
         total += inputLab4
         
