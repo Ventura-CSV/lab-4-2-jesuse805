@@ -9,9 +9,9 @@ def main():
 
     for _ in range(5):
         
-        inputLab4 = int(input(''))
+        inputLab4dash2 = int(input(''))
         
-        total += inputLab4
+        total += inputLab4dash2
         
         
     ########################################
