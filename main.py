@@ -6,6 +6,10 @@ def main():
     """
     total = 0
 
+    for _ in range(5):
+        inputState = int(input('Input an integer value: '))
+        total += 
+        
     ########################################
     # Do not delete the return statement
     ########################################
